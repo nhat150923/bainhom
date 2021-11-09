@@ -7,4 +7,5 @@ int main()
 	fflush(stdin) ;
 	gets(str) ;
 	printf ("\n%s",str);
+	
 	}
